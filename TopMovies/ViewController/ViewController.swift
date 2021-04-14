@@ -79,7 +79,7 @@ class ViewController: UIViewController, EKEventEditViewDelegate {
         switch voteAverage {
         case ..<5:
             rateLabel.backgroundColor = UIColor.red
-        case ..<8:
+        case ..<7:
             rateLabel.backgroundColor = UIColor.gray
         default :
             rateLabel.backgroundColor = UIColor.green

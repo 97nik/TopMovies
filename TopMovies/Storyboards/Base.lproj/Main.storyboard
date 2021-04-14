@@ -297,7 +297,7 @@
                     <tabBarItem key="tabBarItem" title="Top Today" image="star.fill" catalog="system" selectedImage="star.fill" id="76G-ro-jsm"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="VA0-RH-fPL">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="96"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="104.5"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
